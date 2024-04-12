@@ -1,4 +1,5 @@
-[中文版本使用说明](<https://github.com/Livox-SDK/Livox-SDK/blob/master/README_CN.md>)
+#0 Changes by LAG
+Merged PRs to make it build on Ubuntu 22.04 Humble/Iron/Rolling.
 
 # 1 Introduction
 
